@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Coffee_Machine.Problems-Collatz_conjecture.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Coffee_Machine.Problems-Shape.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String processor/Coffee_Machine.Problems-String_processor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The first position of the largest element/Coffee_Machine.Problems-The_first_position_of_the_largest_element.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Coffee_Machine.Problems-The_sum_of_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
